@@ -18,6 +18,7 @@ body {
   font-size: 16px;
   letter-spacing: 0.02em;
 }
+
 h1,
 h2,
 h3,
@@ -67,3 +68,19 @@ a {
   padding-top: 120px;
   padding-bottom: 120px;
 }
+
+/*------------HEADER------------*/
+
+.header {}
+
+.container {}
+
+.header-logo {}
+
+.header-nav {}
+
+.header-list {}
+
+.header-item {}
+
+.header-link {}
