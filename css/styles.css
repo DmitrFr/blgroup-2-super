@@ -71,16 +71,29 @@ a {
 
 /*------------HEADER------------*/
 
-.header {}
+.header {
+}
 
-.container {}
+.header .container {
+  display: flex;
+  align-items: center;
+}
 
-.header-logo {}
+.header-logo {
+}
 
-.header-nav {}
+.header-nav {
+  margin-left: auto;
+}
 
-.header-list {}
+.header-list {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
 
-.header-item {}
+.header-item {
+}
 
-.header-link {}
+.header-link {
+}
